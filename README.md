@@ -1,1 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22157919&assignment_repo_type=AssignmentRepo)
+# 미로 탈출
+
+## P가 E를 향해 탈출하는 게임
+- 방향키로 P를 움직일 수 있음.
+- I키를 통해 자신이 획득한 포션을 확인 할 수 있음.
+- Enter키를 통해 포션을 먹을 수 있음.
+- Game Over 되거나 Stage Clear를 하게 되면 Y키로 게임을 재시작 할 수 있고, N키로 게임을 종료 할 수 있음.
+- 포션과 벽은 랜덤하게 배정되며 E또한 제일 오른쪽 줄에서 랜덤하게 배정됨.
