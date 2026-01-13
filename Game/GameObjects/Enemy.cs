@@ -16,7 +16,7 @@ public class Enemy : GameObject
     public void Update(PlayerCharacter player)
     {
         
-        if (++_moveDelay < 5) return;
+        if (++_moveDelay < 3) return;
         _moveDelay = 0;
 
         Vector[] directions = { Vector.Up, Vector.Down, Vector.Left, Vector.Right };
